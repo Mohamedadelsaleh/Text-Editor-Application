@@ -1,5 +1,7 @@
 # Text Editor Application
-Text Editor App with JavaFX
+
+Text Editor App with JavaFX with many features and menu list with shortcuts to make your experience easy.
+
 
 
 
